@@ -1,0 +1,20 @@
+/* selector {
+  key: value;
+} */
+
+body {
+  background-color:cadetblue;
+}
+
+p a {
+  color:crimson;
+}
+
+p {
+  font-size:x-small;
+  color:crimson;
+}
+
+.big {
+  font-size: x-large;
+}
